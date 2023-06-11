@@ -2,7 +2,7 @@
 layout: post
 title:  "RaspberryPi Feature Matrix"
 date:   2023-06-09 12:00:00 +0200
-tags: ['RasPi', 'RaspberryPi']
+tags: RasPi RaspberryPi
 ---
 
 # RasperryPi Feature Matrix
